@@ -1,2 +1,3 @@
-I like python Programming
-Hello world
+I like Python Programming 
+hello world
+how are you
