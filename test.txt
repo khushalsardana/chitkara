@@ -5,5 +5,9 @@ writing in github
 writing in git bash
 hello from github
 
+<<<<<<< HEAD
 
 hello uncle from git bash
+=======
+hanji
+>>>>>>> 9edc8099b75aa4bc083817f48c5d42e0f6725360
