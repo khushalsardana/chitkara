@@ -2,3 +2,4 @@ test test
 hello
 heyy
 writing in github
+writing in git bash
